@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="248" layout="responsive" src="/assets/images/author.jpg"></amp-img>
+<amp-img width="600" height="248" layout="responsive" src="{{ site.baseurl }}/assets/images/author.jpg"></amp-img>
 
 Hi,
 my name is Filip Bonnevier.

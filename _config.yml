@@ -7,12 +7,12 @@
 
 # Site settings
 title: Coding for Refugees
-email: filip.bonnevier@gmail.com
+email: 
 description: >
   We are giving free programming courses to newly arrived refugees in Sweden.
 logo: "/assets/images/logo.jpg"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/codeschool" # the subpath of your site, e.g. /blog
+url: "http://alum.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Filip Bonnevier'
